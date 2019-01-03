@@ -6,6 +6,8 @@ A CLI tea timer. Currently only supporting green and black tea.
 
 `$ ./tea_time.sh OPTION`
 
+### Options
+
 **-g**, **--green** Green tea.
 
 **-b**, **--black** Black tea.
